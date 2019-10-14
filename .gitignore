@@ -5,3 +5,7 @@
 .svn
 tags
 .gdb_history
+
+*.swp
+Solution
+lib
